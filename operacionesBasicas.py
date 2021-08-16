@@ -1,0 +1,7 @@
+print('Ingresa un número')
+n1 = input()
+print('Ingresa otro número')
+n2 = input()
+print('Suma: ' + str(float(n1) + float(n2)))
+print('Resta: ' + str(float(n1) - float(n2)))
+print('Multiplicación: ' + str(float(n1) * float(n2)))
